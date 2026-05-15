@@ -1,7 +1,7 @@
 import "./Navbar.css"
-import { Input } from "antd";
-const { Search } = Input;
+import { Input, Button } from "antd";
 
+const { Search } = Input;
 
 const Navbar = ({ onSearch }) => {
 
@@ -16,8 +16,13 @@ const Navbar = ({ onSearch }) => {
                 <li><a href="/contact">Contact</a></li>
             </ul>
 
-            <div className="search-bar">
+            <div className="search-bar flex items-center gap-4">
                 <Search placeholder="input search text" onSearch={onSearch} enterButton />
+                <Button
+                    type="primary"
+                >
+                    Login
+                </Button>
             </div>
         </nav>
     )
