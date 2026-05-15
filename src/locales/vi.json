@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "booking": "Đặt bàn",
+    "services": "Dịch vụ",
+    "contact": "Liên hệ",
+    "login": "Đăng nhập",
+    "searchPlaceholder": "Tìm kiếm...",
+    "langEn": "EN",
+    "langVi": "VI"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "subtitle": "Chúng tôi kết nối bạn với các địa điểm KTV tốt nhất — đặt chỗ nhanh, đáng tin cậy và ưu đãi hấp dẫn.",
+    "missionTitle": "Sứ mệnh",
+    "missionText": "Giúp việc đặt chỗ cho buổi tối trở nên dễ dàng. Chúng tôi hợp tác với các địa điểm KTV đã được xác minh để mang tới trải nghiệm chọn lọc và khuyến mãi độc quyền.",
+    "valuesTitle": "Giá trị",
+    "valuesText": "Luôn đặt khách hàng lên hàng đầu, hợp tác đáng tin cậy và cải tiến liên tục.",
+    "ctaBook": "Đặt bàn"
+  },
+  "booking": {
+    "title": "Đặt bàn",
+    "subtitle": "Đặt nhanh, xác nhận ngay. Chọn bàn còn trống bên dưới.",
+    "bookNow": "Đặt ngay",
+    "reset": "Đặt lại",
+    "howToTitle": "Cách đặt",
+    "howTo1": "Chọn bàn còn trống và nhấn Reserve.",
+    "howTo2": "Nhập tên, số lượng khách và chọn ngày/giờ.",
+    "howTo3": "Xác nhận đặt chỗ — bạn sẽ thấy thông báo.",
+    "howTo4": "Đặt chỗ được lưu cục bộ (demo).",
+    "notificationsTitle": "Thông báo",
+    "modalTitle": "Đặt {{table}}",
+    "modalNamePlaceholder": "Tên của bạn",
+    "modalPeoplePlaceholder": "Số người",
+    "modalConfirm": "Xác nhận đặt",
+    "successMessage": "Đặt chỗ thành công",
+    "successDescription": "{{table}} đã được đặt cho {{guest}} vào {{date}}",
+    "errorFill": "Vui lòng điền tên và ngày/giờ"
+  }
+}

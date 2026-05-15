@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "booking": "Booking",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "searchPlaceholder": "Search...",
+    "langEn": "EN",
+    "langVi": "VI"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We connect you with the best KTV venues — fast, reliable reservations and great deals.",
+    "missionTitle": "Our mission",
+    "missionText": "To make booking the perfect night out effortless. We partner with verified KTV venues to deliver curated experiences and exclusive promotions.",
+    "valuesTitle": "Our values",
+    "valuesText": "Customer-first, trustworthy partnerships, and continuous improvement.",
+    "ctaBook": "Book a table"
+  },
+  "booking": {
+    "title": "Reserve your table",
+    "subtitle": "Fast booking, confirmed instantly. Choose any available table below.",
+    "bookNow": "Book now",
+    "reset": "Reset",
+    "howToTitle": "How to book",
+    "howTo1": "Pick an available table and click Reserve.",
+    "howTo2": "Provide your name, guests and choose date/time.",
+    "howTo3": "Confirm booking — you'll see a notification.",
+    "howTo4": "Bookings persist locally (for demo).",
+    "notificationsTitle": "Notifications",
+    "modalTitle": "Book {{table}}",
+    "modalNamePlaceholder": "Your name",
+    "modalPeoplePlaceholder": "Number of people",
+    "modalConfirm": "Confirm booking",
+    "successMessage": "Booking successful",
+    "successDescription": "{{table}} booked for {{guest}} on {{date}}",
+    "errorFill": "Please fill in name and date/time"
+  }
+}
