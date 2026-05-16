@@ -6,6 +6,7 @@
     "services": "Dịch vụ",
     "contact": "Liên hệ",
     "login": "Đăng nhập",
+    "logout": "Đăng xuất",
     "searchPlaceholder": "Tìm kiếm...",
     "langEn": "EN",
     "langVi": "VI"
@@ -34,6 +35,11 @@
     "modalNamePlaceholder": "Tên của bạn",
     "modalPeoplePlaceholder": "Số người",
     "modalConfirm": "Xác nhận đặt",
+    "paymentTitle": "Thanh toán",
+    "paymentFull": "Thanh toán toàn phần",
+    "paymentDeposit": "Đặt cọc",
+    "paymentMethods": "Phương thức thanh toán",
+    "depositPercent": "Phần trăm đặt cọc",
     "successMessage": "Đặt chỗ thành công",
     "successDescription": "{{table}} đã được đặt cho {{guest}} vào {{date}}",
     "errorFill": "Vui lòng điền tên và ngày/giờ"

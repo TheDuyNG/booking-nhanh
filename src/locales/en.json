@@ -6,6 +6,7 @@
     "services": "Services",
     "contact": "Contact",
     "login": "Login",
+    "logout": "Logout",
     "searchPlaceholder": "Search...",
     "langEn": "EN",
     "langVi": "VI"
@@ -34,6 +35,11 @@
     "modalNamePlaceholder": "Your name",
     "modalPeoplePlaceholder": "Number of people",
     "modalConfirm": "Confirm booking",
+    "paymentTitle": "Payment",
+    "paymentFull": "Full payment",
+    "paymentDeposit": "Deposit",
+    "paymentMethods": "Payment methods",
+    "depositPercent": "Deposit %",
     "successMessage": "Booking successful",
     "successDescription": "{{table}} booked for {{guest}} on {{date}}",
     "errorFill": "Please fill in name and date/time"
