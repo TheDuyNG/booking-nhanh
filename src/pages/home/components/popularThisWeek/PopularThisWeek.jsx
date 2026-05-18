@@ -48,26 +48,25 @@ const PopularThisWeek = () => {
         <div className='mt-4'>
             <h2 className='text-center text-xl font-semibold mb-4'>Popular This Week</h2>
             <Swiper
+                className="w-full"
                 modules={[Autoplay, Pagination]}
-                autoplay={{ delay: 3000, disableOnInteraction: false }}
+                autoplay={{ delay: 0}}
                 pagination={{ clickable: true }}
                 loop={true}
                 spaceBetween={30}
                 slidesPerView={3}
-                className="w-full"
+                freeMode={true}
+                speed={6500}
             >
                 {cards.map((card, index) => (
                     <SwiperSlide key={index}>
                         <div className="bg-white rounded-2xl shadow-md overflow-hidden flex flex-col">
-
-                            {/* Hình ảnh */}
                             <img
                                 src={card.image}
                                 alt={card.title}
                                 className="w-full h-48 object-cover"
                             />
 
-                            {/* Nội dung */}
                             <div className="p-6 flex flex-col gap-4">
                                 <h3 className="text-xl font-semibold text-gray-800">{card.title}</h3>
                                 <p className="text-sm text-gray-500">{card.description}</p>
