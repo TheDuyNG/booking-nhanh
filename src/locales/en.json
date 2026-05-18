@@ -6,6 +6,7 @@
     "services": "Services",
     "contact": "Contact",
     "login": "Login",
+    "register": "Register",
     "logout": "Logout",
     "searchPlaceholder": "Search...",
     "langEn": "EN",
